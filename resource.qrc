@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/album_art.png</file>
+        <file>images/background.png</file>
+        <file>images/Bui-Anh-Tuan.png</file>
+        <file>images/center_point.png</file>
+        <file>images/Ha-Anh-Tuan.png</file>
+        <file>images/hold.png</file>
+        <file>images/hold-next.png</file>
+        <file>images/hold-pause.png</file>
+        <file>images/hold-play.png</file>
+        <file>images/hold-prev.png</file>
+        <file>images/Hongkong1.png</file>
+        <file>images/music.png</file>
+        <file>images/next.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/playing.png</file>
+        <file>images/playlist.png</file>
+        <file>images/playlist_item.png</file>
+        <file>images/point.png</file>
+        <file>images/prev.png</file>
+        <file>images/progress_bar.png</file>
+        <file>images/progress_bar_bg.png</file>
+        <file>images/repeat.png</file>
+        <file>images/repeat1_hold.png</file>
+        <file>images/shuffle.png</file>
+        <file>images/shuffle-1.png</file>
+        <file>images/title.png</file>
+        <file>images/USB Mussic.png</file>
+        <file>images/back.png</file>
+        <file>images/drawer.png</file>
+        <file>images/drawer_p.png</file>
+        <file>images/us.png</file>
+        <file>images/vn.png</file>
+        <file>translator/translate_us.qm</file>
+        <file>translator/translate_vn.qm</file>
+    </qresource>
+</RCC>
