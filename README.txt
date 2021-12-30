@@ -1,5 +1,4 @@
 Tác giả: Mai Nguyễn Anh Đức
-MSSV: FX10331
 Email: ducmnafx10331@funix.edu.vn
 
 Mục đích project: 
