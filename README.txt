@@ -1,5 +1,5 @@
 Tác giả: Mai Nguyễn Anh Đức
-Email: ducmnafx10331@funix.edu.vn
+Email: mnaduc@gmail.com
 
 Mục đích project: 
 	Viết chương trình có thể chơi nhạc trong 
